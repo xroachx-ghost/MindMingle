@@ -31,7 +31,7 @@ The fixes have been applied, but the build cannot be tested because:
 - These are required repositories for downloading AGP and Android dependencies
 
 ### What Was Fixed
-✅ AGP version changed from non-existent `8.13.2` to valid `8.7.2`
+✅ AGP version changed from non-existent `8.13.2` to valid `8.6.0`
 ✅ Repository configuration simplified to allow proper plugin resolution
 ✅ All Kotlin source files are syntactically correct
 ✅ AndroidManifest.xml is properly configured
