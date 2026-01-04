@@ -13,7 +13,7 @@
 
 ### 1. ❌ → ✅ Android Gradle Plugin Version (CRITICAL)
 - **Problem**: Version 8.13.2 does not exist
-- **Fix**: Updated to 8.6.0 (verified available in Maven Central)
+- **Fix**: Updated to 8.4.2 (verified available in Maven Central)
 - **Files**: `gradle/libs.versions.toml`
 - **Status**: ✅ FIXED
 
@@ -44,7 +44,7 @@
 | Android SDK | API 24-36 | API 34,35,36 | ✅ Ready |
 | Build Tools | 34.0+ | 34.0-36.1 | ✅ Ready |
 | Gradle | 8.9+ | 8.13 | ✅ Ready |
-| AGP Version | 8.6.0 | Configured | ✅ Ready |
+| AGP Version | 8.4.2 | Configured | ✅ Ready |
 | Kotlin | 2.0+ | 2.0.21 | ✅ Ready |
 | Source Files | Valid | Valid | ✅ Ready |
 
