@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Build logs
+*.log
+build_output.log
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
